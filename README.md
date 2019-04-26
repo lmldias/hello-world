@@ -1,2 +1,2 @@
 # hello-world
-Now we foinish here!
+Now we finish here!
